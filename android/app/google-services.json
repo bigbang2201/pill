@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1062012789056",
+    "firebase_url": "https://applicationpill.firebaseio.com",
+    "project_id": "applicationpill",
+    "storage_bucket": "applicationpill.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062012789056:android:6a201ed1b96fdddafe9aa5",
+        "android_client_info": {
+          "package_name": "com.androidthai.pill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062012789056-oscglu26h820r0lbdmcv8f20m237ktmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNIRB_7gLVGxxvF0x2mGjaA-ua_NIuSeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062012789056-oscglu26h820r0lbdmcv8f20m237ktmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
